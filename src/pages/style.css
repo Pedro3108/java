@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.altura{
+    height: 80px;
+}
+
+.largura-uber{
+    width: 80px;
+}
+
+.menu{
+    color: aliceblue;
+    text-decoration: none;
+}
+
+.fundo{
+    background-color: aliceblue;
+    color: black;
+}
