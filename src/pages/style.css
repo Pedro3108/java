@@ -5,6 +5,7 @@
 
 .altura{
     height: 80px;
+    
 }
 
 .largura-uber{
@@ -19,4 +20,9 @@
 .fundo{
     background-color: aliceblue;
     color: black;
+}
+
+main{
+    justify-content: center;
+    margin: 0 auto;
 }
